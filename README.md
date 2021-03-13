@@ -8,7 +8,7 @@ I try to post frequently on [Medium](https://medium.com/@mahdikarabiben) and [my
 
 
 ### The technologies I'm most familiar with:
-- Apache Spark: I've been using it on a daily basis for more than three years (and so we know each other rather well)
+- Apache Spark: I've been using it on a daily basis for more than three years (and so we know each other pretty well)
 - AWS Ecosystem: Have been working on it for the past year, and it has already made me enjoy my morning coffee a bit more ☕
 - Hadoop: Worked with Hadoop datalakes for two years and a half (was mostly a rough ride, but lots of lessons/experience learned thanks to it)
 - Other projects/tools: Apache Superset, Apache Airflow, Apache Zeppelin, Apache Hive, Dremio, Databricks, Jupyter

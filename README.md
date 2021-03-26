@@ -4,7 +4,7 @@ I'm a data engineer based in Paris. I'm very passionate about open-source projec
 
 I'm currently working on AWS ☁️ and leveraging multiple open-source tools in different data and ML projects (mostly working with Glue, Spark, SageMaker, and Apache Superset).
 
-I try to post frequently on [Medium](https://medium.com/@mahdikarabiben) and [my personal website](https://mahdiqb.github.io/).
+I try to post frequently on [Medium](https://mahdiqb.medium.com/) and [my personal website](https://mahdiqb.github.io/).
 
 
 ### The technologies I'm most familiar with:

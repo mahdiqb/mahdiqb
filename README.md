@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data engineer based in Paris. I'm very passionate about open-source projects and enjoy building data pipelines, data lakes, and data services - basically, I enjoy working with data and designing scalable solutions.
+I'm Mahdi, a data engineer based in Paris. I'm very passionate about open-source projects and enjoy building data pipelines, data lakes, and data services - basically, I enjoy working with data and designing scalable solutions.
 
 
 I try to meaningfully contribute to the discussion around data engineering via [Medium](https://mahdiqb.medium.com/) and [the Data Espresso newsletter](https://dataespresso.substack.com/).

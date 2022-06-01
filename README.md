@@ -10,7 +10,7 @@ I try to meaningfully contribute to the discussion around data engineering via [
 - Apache Spark: I've been using it on a daily basis for nearly four years (and so we know each other pretty well).
 - AWS Ecosystem: Worked on it for 2 years, for various data and ML projects (mostly worked with Glue, EMR, Athena, ECS, SageMaker, and the AWS CI/CD stack).
 - GCP Ecosystem: Using it currently on a daily basis (mostly working with BigQuery and GKE).
-- Hadoop: Worked with Hadoop data lakes for two years and a half (was mostly a rough ride, but lots of lessons/experience learned thanks to it).
+- Hadoop: Worked with Hadoop data lakes for two and a half years (was mostly a rough ride, but lots of lessons/experience learned thanks to it).
 - Other notable projects/tools: Apache Superset, Apache Airflow, Apache Zeppelin, Apache Hive, Dremio, Databricks, Jupyter, and D3.js.
 - Languages I'm fluent in: Python, Java, and SQL.
 - Other languages I've used in the past: C++, C#, JavaScript (Angular, Node.js), and HTML+CSS.

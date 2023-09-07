@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahdi, a data engineer with six years of experience designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions.
+I'm Mahdi, a data engineer with seven years of experience designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions.
 
 
 I try to meaningfully contribute to the discussion around data engineering via [Medium](https://mahdiqb.medium.com/) and [the Data Espresso newsletter](https://dataespresso.substack.com/).
@@ -8,7 +8,7 @@ I try to meaningfully contribute to the discussion around data engineering via [
 
 ### The technologies I'm most familiar with:
 - Apache Spark: I used it on a daily basis for nearly four years (and so we know each other pretty well).
-- dbt: It's the tool I'm working with the most currently. I'm mainly working on defining and implementing standards, frameworks, and automations to better leverage dbt at scale.
+- dbt: It's the tool I'm working with the most currently. I'm mainly working on defining and implementing standards, frameworks, and automation to better leverage dbt at scale. ([Article from the Zendesk Engineering blog](https://zendesk.engineering/dbt-at-zendesk-part-i-setting-foundations-for-scalability-34b55e6a6aa1))
 - AWS Ecosystem: Worked on it for 2 years, for various data and ML projects (mostly worked with Glue, EMR, Athena, ECS, SageMaker, and the AWS CI/CD stack).
 - GCP Ecosystem: Using it currently on a daily basis (mostly working with BigQuery and GKE).
 - Hadoop: Worked with Hadoop data lakes for two and a half years (it was the ecosystem that first introduced me to distributed systems and the paradigms/concepts behind them).
@@ -21,23 +21,11 @@ I try to meaningfully contribute to the discussion around data engineering via [
 ### Notable published work:
 - [End-to-End Batch Data Pipeline with Spark](https://www.manning.com/liveprojectseries/batch-data-pipeline-with-spark): A series of four projects that I authored for Manning Publications as part of their liveProjects platform. The series goes through the different steps of building an end-to-end Big Data pipeline. Learners get to use Apache Spark, Delta Lake, and Apache Superset.
 - [Building an End-to-End Open-Source Modern Data Platform](https://towardsdatascience.com/building-an-end-to-end-open-source-modern-data-platform-c906be2f31bd): Proposes an exhaustive design (accompanied by the necessary Infrastructure-as-Code) to build a modern data platform solely using open-source projects and the resources offered by cloud providers.
+- [Writing design docs for data pipelines](https://towardsdatascience.com/writing-design-docs-for-data-pipelines-d49550f95580): Exploring the what, why, and how of design docs for data components — and why they matter.
+- [A Simple (Yet Effective) Approach to Implementing Unit Tests for dbt Models](https://towardsdatascience.com/a-simple-yet-effective-approach-to-implementing-unit-tests-for-dbt-models-da2583ea8e79): Proposes an innovative unit testing approach for dbt models - relying on standards and dbt best practices.
 - [Creating Notebook-based Dynamic Dashboards](https://towardsdatascience.com/creating-notebook-based-dynamic-dashboards-91f936adc6f3): A design (accompanied by a POC) in which notebooks are leveraged to generate dynamic dashboards, to support a Google-like metadata search engine.
 
-### Presentations and podcasts:
+### Notable presentations and podcasts:
+- Data Innovation Summit 2023: [The Data Engineer's Guide to Data Quality Testing: The Fun, Easy, and Scalable Way](https://www.linkedin.com/feed/update/urn:li:activity:7059866778763444224/)
 - Big Data Expo 2022: [A Practical Case Study for Data Engineers: Performing Data Quality at Scale](https://www.bigdata-expo.nl/nl/programma/practical-case-study-data-engineers-performing-data-quality-scale)
 - The Modern Data Show (S01E02): [The third wave of data technologies](https://www.moderndatastack.xyz/podcast/s01-e02-the-third-wave-of-data-technologies-with-mahdi-karabiben-auex)
-
-<!--
-**mahdiqb/mahdiqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

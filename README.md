@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm Mahdi, a data engineer with seven years of experience designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions.
-
-
-I try to meaningfully contribute to the discussion around data engineering via [Medium](https://mahdiqb.medium.com/) and [the Data Espresso newsletter](https://dataespresso.substack.com/).
+I'm Mahdi, a data engineer with seven years of experience designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions. I'm constantly contributing to the discussion around data engineering via [Medium](https://mahdiqb.medium.com/) and [the Data Espresso newsletter](https://dataespresso.substack.com/).
 
 
 ### The technologies I'm most familiar with:

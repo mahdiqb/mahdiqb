@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahdi, a Product and Data lead building products in the data space - specifically, I'm currently a PM at Sifflet. Before transitioning to product, I spent seven years designing and building petabyte-scale data platforms wearing different hats (data engineer, tech lead, data architect, and ML Ops engineer). I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions. You can also read my content on [Medium](https://mahdiqb.medium.com/) and via [the Data Espresso newsletter](https://dataespresso.substack.com/).
+I'm Mahdi, a Product and Data lead building products in the data space - specifically, I'm currently Co-Head of Product at Sifflet. Before transitioning to product, I spent seven years designing and building petabyte-scale data platforms wearing different hats (data engineer, tech lead, data architect, and ML Ops engineer). I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions. You can also read my content on [Medium](https://mahdiqb.medium.com/) and via [the Data Espresso newsletter](https://dataespresso.substack.com/).
 
 
 ### The technologies I'm most familiar with:

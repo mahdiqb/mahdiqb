@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mahdi, a fellow data geek with 9 years of experience in the data space. Throughout my career, I wore various hats on the engineering side (data engineer, tech lead, data architect, and ML Ops engineer) before switching to product management - I'm currently Head of Product at Sifflet, a data observability B2B SaaS. Before transitioning to product, I mainly worked on designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions. You can also read my content on [Medium](https://mahdiqb.medium.com/) and via [the Data Espresso newsletter](https://dataespresso.substack.com/).
+I'm Mahdi, a data geek with 9 years of experience in the data space. Throughout my career, I wore various hats on the engineering side (data engineer, tech lead, data architect, and ML Ops engineer) before switching to product management - I'm currently a Senior PM at Neo4j, focusing on graph analytics. Before transitioning to product, I mainly worked on designing and building petabyte-scale data platforms. I'm very passionate about open-source projects and enjoy working with data and designing scalable solutions. You can also read my content on [Medium](https://mahdiqb.medium.com/) and via [the Data Espresso newsletter](https://dataespresso.substack.com/).
 
 
 ### The technologies I'm most familiar with:
